@@ -11,7 +11,7 @@ include(FetchContent)
 
 set(
     base_url
-    https://pytorch.s3.amazonaws.com/torchcodec/ffmpeg/2024-09-13
+    https://pytorch.s3.amazonaws.com/torchcodec/ffmpeg/2024-09-23
 )
 
 if (${CMAKE_SYSTEM_NAME} STREQUAL "Linux")
